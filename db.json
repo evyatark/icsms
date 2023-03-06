@@ -38,44 +38,6 @@
             "Year of manufacturing": "2022",
             "Type of energy used": "combustion engine"
 
-        },
-        {
-            "id": 3,
-            "creation_date": "21/12/2022",
-            "icsms_uuid": "d41b9247-6bb5-42ab-be0a-3f35ee88aaba",
-            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
-            "Notifying_Authority": {
-                "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
-                "Street": "Canisiusstr. 21",
-                "City": "Mainz",
-                "Postal code": "55122",
-                "P.O. Box": "Mainz 55003",
-                "Phone": "+49 6131 18-0",
-                "Fax": "+49 6131 18-5616",
-                "E-mail": "411.Postfach@BNetzA.de",
-                "Website": "www.bundesnetzagentur.de",
-                "Notifying Country": "Germany"
-            },
-            "Processing_Authority": {
-                "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
-                "Street": "Canisiusstr. 21",
-                "City": "Mainz",
-                "Postal code": "55122",
-                "P.O. Box": "Mainz 55003",
-                "Phone": "+49 6131 18-0",
-                "Fax": "+49 6131 18-5616",
-                "E-mail": "411.Postfach@BNetzA.de",
-                "Website": "www.bundesnetzagentur.de",
-                "Notifying Country": "Germany"
-            },
-            "Measures": {
-                "Compulsory measures": "",
-                "Justification for the adopted measures": "",
-                "Date of entry into force": "19/12/2022"
-            },
-            "Serial_number": "",
-            "Year of manufacturing": "",
-            "Type of energy used": ""
         }
     ],
     "icsms": [
