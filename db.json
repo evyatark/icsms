@@ -37,8 +37,32 @@
             "Serial_number": "individual approval ... (weitere Informationen siehe Suchkriterien (productkeywords))",
             "Year of manufacturing": "2022",
             "Type of energy used": "combustion engine"
-
+        },
+        {
+            "id": 3,
+            "creation_date": "21/12/2022",
+            "icsms_uuid": "d41b9247-6bb5-42ab-be0a-3f35ee88aaba",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        },    
+        {
+            "id": 4,
+            "creation_date": "22/04/2021",
+            "icsms_uuid": "b1b2f7c6-dab9-4f14-a87b-382fca567402",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+        },    
+        {
+            "id": 5,
+            "creation_date": "11/11/2020",
+            "icsms_uuid": "4dab8aaa-ba6a-4674-a273-f493b43981c8",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
+        },    
+        {
+            "id": 7,
+            "creation_date": "23/10/2019",
+            "icsms_uuid": "364595ce-f546-4a32-bd23-51b54f89b58e",
+            "title": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
         }
+
     ],
     "icsms": [
         {
@@ -123,27 +147,6 @@
                 "id": 5
             },
             "investigations":[5]
-        },
-        {
-            "id": 6,
-            "icsms_url": "https://webgate.ec.europa.eu/icsms/public/productDetail.jsp?p=f2f7b695-f43a-48b4-a4ce-60f7466d3846&locale=en",
-            "icsms_uuid": "f2f7b695-f43a-48b4-a4ce-60f7466d3846",
-            "barcode": "", 
-            "product_name_english": "USB Charger", 
-            "product_name_notifying_country": "USB-Ladegerät", 
-            "photo": "https://webgate.ec.europa.eu/icsms/zkau/view/z_7g2/b2FPv/3vg/1/c/.jpeg",
-            "product_category": "7. Appliance mainly used in household\n            7.98. Other specified household appliance\n            7.98.98. Other specified household appliance", 
-            "brand": "", 
-            "type_model": "A2407", 
-            "country_of_origin": "China",
-            "EU_EFTA_country": "",
-            "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, usb charger, travel charger, travel adapter,            1xusb charger, A1500, A2407, x 2018/12/20, A-2407, A 2407, A-1500, A 1500",
-            "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "08/06/2020",
-            "investigation": {
-                "id": 6
-            },
-            "investigations":[6]
         },
         {
             "id": 7,
