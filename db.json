@@ -57,6 +57,9 @@
             "search_criteria_product_key_words": "Type/Model:\n            LD (Charger) LA (Challenger)\n            serial number / Year of first distribution:\n            individual approval",
             "description_of_product_and_packaging_dimensions": "Not available",
             "creation_date": "19/01/2023",
+            "investigation": {
+                "id": 2
+            },
             "investigations":[2]
         },
         {
@@ -75,6 +78,9 @@
             "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, Semik, POWER ADAPTOR 20W",
             "description_of_product_and_packaging_dimensions": "",
             "creation_date": "21/12/2022",
+            "investigation": {
+                "id": 3
+            },
             "investigations":[3]
         },
         {
@@ -92,7 +98,9 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "smartphone sterilizer, Smartphone Sanitizer, UV Box, UV sterilizer, Aksu, disinfectant equipment, sterilizer, charger, aroma diffuser, sterilizer for mobile phones",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "22/04/2021",
+            "creation_date": "22/04/2021",            "investigation": {
+                "id": 4
+            },
             "investigations":[4]
         },
         {
@@ -111,6 +119,9 @@
             "search_criteria_product_key_words": "other radio transmitters, automatic battery charger, battery charger, Adaptor, Qi wireless Car Mount, XSSIVE, XSS-C17, EB 3842-2020, Qi adapter, car transmitter, Mimcom, Qi wireless Car Charger with IR Sensor",
             "description_of_product_and_packaging_dimensions": "",
             "creation_date": "11/11/2020",
+            "investigation": {
+                "id": 5
+            },
             "investigations":[5]
         },
         {
@@ -129,6 +140,9 @@
             "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, usb charger, travel charger, travel adapter,            1xusb charger, A1500, A2407, x 2018/12/20, A-2407, A 2407, A-1500, A 1500",
             "description_of_product_and_packaging_dimensions": "",
             "creation_date": "08/06/2020",
+            "investigation": {
+                "id": 6
+            },
             "investigations":[6]
         },
         {
@@ -147,6 +161,9 @@
             "search_criteria_product_key_words": "automatic battery charger, battery charger, Adaptor, usb charger, 2xUSB Charger for iPhone 5,            2xUSB Charger, battery charger for mobile phones, switching power supply, mains unit, charger,            power supply unit, travel charger, MOXOM, KH-18Y, 8682842301621, iPh 5G/S, SKU:NT-20-308,            AC-USB",
             "description_of_product_and_packaging_dimensions": "",
             "creation_date": "23/10/2019",
+            "investigation": {
+                "id": 7
+            },
             "investigations":[7]
         }
     ]
