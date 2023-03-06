@@ -4,39 +4,7 @@
             "id": 2,
             "creation_date": "19/01/2023",
             "icsms_uuid": "b894c021-6da7-45fd-b043-0a77a7e0e143",
-            "title": "Kraftfahrt-Bundesamt",
-            "Notifying_Authority": {
-                "title": "Kraftfahrt-Bundesamt",
-                "Street": "Fördestraße 16",
-                "City": "Flensburg",
-                "Postal code": "D-24944",
-                "P.O. Box": "Flensburg D-24932",
-                "Phone": "+49-461-316-0",
-                "Fax": "+49-461-316-2331",
-                "E-mail": "MSA@kba.de",
-                "Website": "www.kba.de",
-                "Notifying Country": "Germany"
-            },
-            "Processing_Authority": {
-                "title": "Kraftfahrt-Bundesamt",
-                "Street": "Fördestraße 16",
-                "City": "Flensburg",
-                "Postal code": "D-24944",
-                "P.O. Box": "Flensburg D-24932",
-                "Phone": "+49-461-316-0",
-                "Fax": "+49-461-316-2331",
-                "E-mail": "MSA@kba.de",
-                "Website": "www.kba.de",
-                "Notifying Country": "Germany"
-            },
-            "Measures": {
-                "Description of defects": "",
-                "Voluntary measures": "",
-                "Date of entry into force": "10/01/2023"
-            },
-            "Serial_number": "individual approval ... (weitere Informationen siehe Suchkriterien (productkeywords))",
-            "Year of manufacturing": "2022",
-            "Type of energy used": "combustion engine"
+            "title": "Kraftfahrt-Bundesamt"
         },
         {
             "id": 3,
@@ -122,7 +90,8 @@
             "EU_EFTA_country": "",
             "search_criteria_product_key_words": "smartphone sterilizer, Smartphone Sanitizer, UV Box, UV sterilizer, Aksu, disinfectant equipment, sterilizer, charger, aroma diffuser, sterilizer for mobile phones",
             "description_of_product_and_packaging_dimensions": "",
-            "creation_date": "22/04/2021",            "investigation": {
+            "creation_date": "22/04/2021",            
+            "investigation": {
                 "id": 4
             },
             "investigations":[4]
